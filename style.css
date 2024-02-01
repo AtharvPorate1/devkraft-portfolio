@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.everything{
+    /* background-color: cyan; */
+}
+.navbar{
+    /* background-color: green; */
+    font-size: 32px;
+    color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.text{
+    /* background-color: red; */
+}
+
+.image{
+    /* background-color: orange; */
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
